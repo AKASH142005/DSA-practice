@@ -6,17 +6,14 @@ public class ArraySwap {
       int[] arr2 = {1,2,5,6,7,0}; 
      obj.swap(arr,1,4);
       System.out.println(Arrays.toString(arr));
-    reverse(arr2);
+     obj.reverse(arr2);
       System.out.println(Arrays.toString(arr2));
   }
-  public static void reverse(int[] arr){
+  public void reverse(int[] arr){
       int start = 0 ;
       int end = arr.length -1;
       while(start < end){
-          int temp = arr[start] ;
-          arr[start] = arr[end] ;
-          arr[end] = temp ;
-        
+            swap(arr ,start , end);
         start++;
         end--;
       }
