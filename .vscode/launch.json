@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ArraySwap",
+      "request": "launch",
+      "mainClass": "ArraySwap",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "Current File",
       "request": "launch",
       "mainClass": "${file}"
