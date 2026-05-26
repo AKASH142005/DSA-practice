@@ -9,7 +9,7 @@ public class Prime {
 
     for (int i = 2 ;i < input ; i++){
        boolean result = obj.primeNumber(i) ;
-       if (result == true) System.out.print(i +" ");
+       if (result) System.out.print(i +" ");
     }
     in.close();
   }

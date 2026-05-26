@@ -4,7 +4,7 @@ public class armstrong {
 
     for (int i = 1 ; i < n ;i++){
       boolean result = armstrongNumber(i);
-      if(result == true) System.out.print(i + " ");  
+      if(result) System.out.print(i + " ");  
     }
   }
   static boolean armstrongNumber(int original){
