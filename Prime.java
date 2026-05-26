@@ -5,8 +5,12 @@ public class Prime {
     System.out.println("Enter the Number :");
      int input = in.nextInt() ;
     Prime obj = new Prime();
-    boolean result = obj.primeNumber(input) ;
-    System.out.print(result);
+  
+
+    for (int i = 2 ;i < input ; i++){
+       boolean result = obj.primeNumber(i) ;
+       if (result == true) System.out.print(i +" ");
+    }
     in.close();
   }
 
