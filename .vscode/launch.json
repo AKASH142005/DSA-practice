@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BinarySearch",
+      "request": "launch",
+      "mainClass": "BinarySearch",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "EvenDigit",
       "request": "launch",
       "mainClass": "EvenDigit",
