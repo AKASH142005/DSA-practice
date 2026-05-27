@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LinearSearchInString",
+      "request": "launch",
+      "mainClass": "LinearSearchInString",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
+      "name": "LinearSearch",
+      "request": "launch",
+      "mainClass": "LinearSearch",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "ArrayMax",
       "request": "launch",
       "mainClass": "ArrayMax",
