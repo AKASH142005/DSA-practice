@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "OrderAgnosticBS",
+      "request": "launch",
+      "mainClass": "OrderAgnosticBS",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "BinarySearch",
       "request": "launch",
       "mainClass": "BinarySearch",
