@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FirstLastPosition",
+      "request": "launch",
+      "mainClass": "FirstLastPosition",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
+      "name": "Floor",
+      "request": "launch",
+      "mainClass": "Floor",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
+      "name": "Ceiling",
+      "request": "launch",
+      "mainClass": "Ceiling",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "OrderAgnosticBS",
       "request": "launch",
       "mainClass": "OrderAgnosticBS",
