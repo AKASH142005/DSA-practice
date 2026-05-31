@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SplitArrayBS",
+      "request": "launch",
+      "mainClass": "SplitArrayBS",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "RotationCount",
       "request": "launch",
       "mainClass": "RotationCount",
