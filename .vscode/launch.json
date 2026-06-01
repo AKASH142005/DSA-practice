@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SortedArray2DBS",
+      "request": "launch",
+      "mainClass": "SortedArray2DBS",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "WellsortedArray2D",
       "request": "launch",
       "mainClass": "WellsortedArray2D",
