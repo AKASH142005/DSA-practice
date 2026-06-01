@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "WellsortedArray2D",
+      "request": "launch",
+      "mainClass": "WellsortedArray2D",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "SplitArrayBS",
       "request": "launch",
       "mainClass": "SplitArrayBS",
