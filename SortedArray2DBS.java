@@ -2,12 +2,11 @@ import java.util.Arrays ;
 public class SortedArray2DBS {
   public static void main(String[] args) {
     int [][] matrix = {
-      {1,2,3},
-      {4,5,6} ,
-      {7,8,9}
+      {1},
+      {2}
     } ;
 
-    int ans [] = searchSpace(matrix, 5) ;
+    int ans [] = searchSpace(matrix, 1) ;
 
     System.out.print(Arrays.toString(ans));
   }
@@ -33,7 +32,7 @@ public class SortedArray2DBS {
       int col = matrix[0].length ;
 
       if (row == 1){
-        return binarySearch(matrix, row, 0 , col -1, target) ;
+        return binarySearch(matrix, row - 1, 0 , col -1, target) ;
       }
       int rStart = 0 ;
       int rEnd = row - 1 ;
@@ -53,13 +52,13 @@ public class SortedArray2DBS {
       }
 
       if(matrix[rStart][cMid] >= target){
-         return binarySearch(matrix, rStart, 0, cMid - 1, target) ;
+         return binarySearch(matrix, rStart, 0, cMid, target) ;
       }
       else if (matrix[rStart][cMid] <= target && matrix[rStart][col -1] >= target){
          return binarySearch(matrix, rStart, cMid + 1, col -1 , target) ;
       }
       else if (matrix[rStart + 1][cMid] >= target){
-         return binarySearch(matrix, rStart + 1, 0, cMid - 1 , target) ;
+         return binarySearch(matrix, rStart + 1, 0, cMid , target) ;
       }
       else{
         return binarySearch(matrix, rStart + 1, cMid + 1, col -1 , target) ;
