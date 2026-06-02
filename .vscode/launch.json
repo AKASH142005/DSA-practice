@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FindMissingElement",
+      "request": "launch",
+      "mainClass": "FindMissingElement",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
+      "name": "CyclicSort",
+      "request": "launch",
+      "mainClass": "CyclicSort",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
+      "name": "InsertionSort",
+      "request": "launch",
+      "mainClass": "InsertionSort",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "SelectionSort",
       "request": "launch",
       "mainClass": "SelectionSort",
