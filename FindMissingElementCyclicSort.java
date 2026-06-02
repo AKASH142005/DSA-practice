@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class FindMissingElement {
+public class FindMissingElementCyclicSort {
     public static void main(String[] args) {
         int [] nums = {5 ,2 ,1 ,2 ,3 ,6 ,7 ,5} ;
         List <Integer> ans = findDisappearedNumbers(nums) ;

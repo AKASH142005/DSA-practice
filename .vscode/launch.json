@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "findDuplicateCyclicSort",
+      "request": "launch",
+      "mainClass": "findDuplicateCyclicSort",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "FindMissingElement",
       "request": "launch",
       "mainClass": "FindMissingElement",
