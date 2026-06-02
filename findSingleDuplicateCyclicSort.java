@@ -1,8 +1,9 @@
-public class findDuplicateCyclicSort {
+public class findSingleDuplicateCyclicSort {
     public static void main(String[] args) {
         int[] nums = {1 , 3 ,2 ,5 ,3} ;
         int ans = findDuplicate(nums);
-        System.out.print(ans) ;    }
+        System.out.print(ans) ;    
+    }
     public static int findDuplicate(int[] nums) {
         int i = 0 ;
         while(i < nums.length){

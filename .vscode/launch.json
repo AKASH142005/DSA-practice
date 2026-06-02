@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "findErrorNumCyclicSort",
+      "request": "launch",
+      "mainClass": "findErrorNumCyclicSort",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
+      "name": "findMultipleDuplicateCyclicSort",
+      "request": "launch",
+      "mainClass": "findMultipleDuplicateCyclicSort",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "findDuplicateCyclicSort",
       "request": "launch",
       "mainClass": "findDuplicateCyclicSort",
