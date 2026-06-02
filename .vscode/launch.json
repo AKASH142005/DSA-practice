@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BubbleSort",
+      "request": "launch",
+      "mainClass": "BubbleSort",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "SortedArray2DBS",
       "request": "launch",
       "mainClass": "SortedArray2DBS",
