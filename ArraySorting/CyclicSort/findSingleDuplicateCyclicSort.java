@@ -1,3 +1,4 @@
+package ArraySorting.CyclicSort;
 public class findSingleDuplicateCyclicSort {
     public static void main(String[] args) {
         int[] nums = {1 , 3 ,2 ,5 ,3} ;

@@ -6,6 +6,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LeftTrinangle",
+      "request": "launch",
+      "mainClass": "pattern.LeftTrinangle",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
+      "name": "RightDiamondPattern",
+      "request": "launch",
+      "mainClass": "pattern.RightDiamondPattern",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
+      "name": "NumberTringle",
+      "request": "launch",
+      "mainClass": "pattern.NumberTringle",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
+      "name": "ReverseTringle",
+      "request": "launch",
+      "mainClass": "pattern.ReverseTringle",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
+      "name": "RightTringle",
+      "request": "launch",
+      "mainClass": "pattern.RightTringle",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
+      "name": "rectangle",
+      "request": "launch",
+      "mainClass": "pattern.rectangle",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "StringComparison",
       "request": "launch",
       "mainClass": "StringComparison",
