@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "NumberRectangle",
+      "request": "launch",
+      "mainClass": "pattern.NumberRectangle",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
+      "name": "NumeberMountain",
+      "request": "launch",
+      "mainClass": "pattern.NumeberMountain",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
+      "name": "Diamond",
+      "request": "launch",
+      "mainClass": "pattern.Diamond",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "LeftTrinangle",
       "request": "launch",
       "mainClass": "pattern.LeftTrinangle",
