@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BinarySearchR",
+      "request": "launch",
+      "mainClass": "Recursion.BinarySearchR",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "Fiboncci",
       "request": "launch",
       "mainClass": "Recursion.Fiboncci",
