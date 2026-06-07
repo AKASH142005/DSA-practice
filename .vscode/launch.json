@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PrintFunR",
+      "request": "launch",
+      "mainClass": "Recursion.PrintFunR",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "PrintFun",
       "request": "launch",
       "mainClass": "Recursion.PrintFun",
