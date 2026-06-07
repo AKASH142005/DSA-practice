@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Fiboncci",
+      "request": "launch",
+      "mainClass": "Recursion.Fiboncci",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
+      "name": "First_java_program",
+      "request": "launch",
+      "mainClass": "First_java_program",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "PrintFunR",
       "request": "launch",
       "mainClass": "Recursion.PrintFunR",
