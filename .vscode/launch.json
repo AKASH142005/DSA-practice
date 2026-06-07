@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PrintFun",
+      "request": "launch",
+      "mainClass": "Recursion.PrintFun",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "NumberRectangle",
       "request": "launch",
       "mainClass": "pattern.NumberRectangle",
