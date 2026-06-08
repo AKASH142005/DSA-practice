@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "OddOrEven",
+      "request": "launch",
+      "mainClass": "Bitwise.OddOrEven",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "BinarySearchR",
       "request": "launch",
       "mainClass": "Recursion.BinarySearchR",
