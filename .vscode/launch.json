@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FindUnique",
+      "request": "launch",
+      "mainClass": "Bitwise.FindUnique",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "OddOrEven",
       "request": "launch",
       "mainClass": "Bitwise.OddOrEven",
