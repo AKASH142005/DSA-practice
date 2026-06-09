@@ -5,6 +5,7 @@ public class setIDigitd{
         System.out.println(Integer.toBinaryString(n));
         int k = 5 ;
         
+        
         int ans = (n | (1 <<(k-1)));
         System.out.println(ans);
         System.out.println(Integer.toBinaryString(ans));
