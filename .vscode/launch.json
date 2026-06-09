@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ResetIDigit",
+      "request": "launch",
+      "mainClass": "Bitwise.ResetIDigit",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
+      "name": "setIDigitd",
+      "request": "launch",
+      "mainClass": "Bitwise.setIDigitd",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "Findibit",
       "request": "launch",
       "mainClass": "Bitwise.Findibit",
