@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FipAndInvertImage",
+      "request": "launch",
+      "mainClass": "Bitwise.FipAndInvertImage",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "RangeXOR",
       "request": "launch",
       "mainClass": "Bitwise.RangeXOR",
