@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RowSumOfPascalTriangle",
+      "request": "launch",
+      "mainClass": "Bitwise.RowSumOfPascalTriangle",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "NoDigits",
       "request": "launch",
       "mainClass": "Bitwise.NoDigits",
