@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "NoDigits",
+      "request": "launch",
+      "mainClass": "Bitwise.NoDigits",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "FindTheMagicNumber",
       "request": "launch",
       "mainClass": "Bitwise.FindTheMagicNumber",
