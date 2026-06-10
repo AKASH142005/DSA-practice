@@ -2,7 +2,6 @@ package Bitwise;
 
 public class Power {
     public static void main(String[] args) {
-        int n = 3 ;
           int power = 4 ;
           int ans =1 ;
           int base = 3 ;
