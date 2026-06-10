@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FindTheRightMostBit",
+      "request": "launch",
+      "mainClass": "Bitwise.FindTheRightMostBit",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "ResetIDigit",
       "request": "launch",
       "mainClass": "Bitwise.ResetIDigit",

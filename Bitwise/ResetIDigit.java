@@ -2,6 +2,7 @@ package Bitwise;
 
 public class ResetIDigit {
     public static void main(String[] args) {
+        // reset
          int n = 18 ;
         System.out.println(Integer.toBinaryString(n));
         int k = 2 ;
