@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Power",
+      "request": "launch",
+      "mainClass": "Bitwise.Power",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
+      "name": "FindItsPowerOf2",
+      "request": "launch",
+      "mainClass": "Bitwise.FindItsPowerOf2",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "RowSumOfPascalTriangle",
       "request": "launch",
       "mainClass": "Bitwise.RowSumOfPascalTriangle",
