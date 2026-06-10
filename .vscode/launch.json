@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RangeXOR",
+      "request": "launch",
+      "mainClass": "Bitwise.RangeXOR",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
+      "name": "NoOfSetBits",
+      "request": "launch",
+      "mainClass": "Bitwise.NoOfSetBits",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "Power",
       "request": "launch",
       "mainClass": "Bitwise.Power",
