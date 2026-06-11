@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SquareRoot",
+      "request": "launch",
+      "mainClass": "Math.SquareRoot",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
+      "name": "PrimeSeive",
+      "request": "launch",
+      "mainClass": "Math.PrimeSeive",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "Prime",
       "request": "launch",
       "mainClass": "Math.Prime",
