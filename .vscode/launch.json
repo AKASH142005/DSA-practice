@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Prime",
+      "request": "launch",
+      "mainClass": "Math.Prime",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
+      "name": "prime",
+      "request": "launch",
+      "mainClass": "Math.prime",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "FipAndInvertImage",
       "request": "launch",
       "mainClass": "Bitwise.FipAndInvertImage",
