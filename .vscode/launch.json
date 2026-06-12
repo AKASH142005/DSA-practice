@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Product",
+      "request": "launch",
+      "mainClass": "RecursionLevel1.Product",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "Sum",
       "request": "launch",
       "mainClass": "RecursionLevel1.Sum",
