@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Sum",
+      "request": "launch",
+      "mainClass": "RecursionLevel1.Sum",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
+      "name": "Factorial",
+      "request": "launch",
+      "mainClass": "RecursionLevel1.Factorial",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "Numers",
       "request": "launch",
       "mainClass": "RecursionLevel1.Numers",
