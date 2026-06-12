@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LcmGcd",
+      "request": "launch",
+      "mainClass": "Math.LcmGcd",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "NewtonSquareRoot",
       "request": "launch",
       "mainClass": "Math.NewtonSquareRoot",
