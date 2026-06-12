@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Numers",
+      "request": "launch",
+      "mainClass": "RecursionLevel1.Numers",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "LcmGcd",
       "request": "launch",
       "mainClass": "Math.LcmGcd",
