@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Palindrome",
+      "request": "launch",
+      "mainClass": "RecursionLevel1.Palindrome",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
+      "name": "Reverse",
+      "request": "launch",
+      "mainClass": "RecursionLevel1.Reverse",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "Product",
       "request": "launch",
       "mainClass": "RecursionLevel1.Product",
