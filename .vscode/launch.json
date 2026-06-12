@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "NewtonSquareRoot",
+      "request": "launch",
+      "mainClass": "Math.NewtonSquareRoot",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "SquareRoot",
       "request": "launch",
       "mainClass": "Math.SquareRoot",
