@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SorteedArray",
+      "request": "launch",
+      "mainClass": "recursionArray.SorteedArray",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "Steps",
       "request": "launch",
       "mainClass": "Recursion.Steps",
