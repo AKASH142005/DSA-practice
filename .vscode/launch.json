@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RBS",
+      "request": "launch",
+      "mainClass": "recursionArray.RBS",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
+      "name": "DuplicateTarget",
+      "request": "launch",
+      "mainClass": "recursionArray.DuplicateTarget",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "LinearSearch",
       "request": "launch",
       "mainClass": "recursionArray.LinearSearch",
