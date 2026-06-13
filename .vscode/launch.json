@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BubbleSortR",
+      "request": "launch",
+      "mainClass": "recursionArray.BubbleSortR",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
+      "name": "BubblePattern",
+      "request": "launch",
+      "mainClass": "recursionArray.BubblePattern",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "RBS",
       "request": "launch",
       "mainClass": "recursionArray.RBS",
