@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Steps",
+      "request": "launch",
+      "mainClass": "Recursion.Steps",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
+      "name": "CountZero",
+      "request": "launch",
+      "mainClass": "Recursion.CountZero",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "Palindrome",
       "request": "launch",
       "mainClass": "RecursionLevel1.Palindrome",
