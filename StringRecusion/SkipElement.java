@@ -1,4 +1,4 @@
-package String;
+package StringRecusion;
 
 public class SkipElement {
     public static void main(String[] args) {
