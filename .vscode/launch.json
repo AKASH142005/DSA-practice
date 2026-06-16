@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Subsequence",
+      "request": "launch",
+      "mainClass": "String.Subsequence",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "SkipElement",
       "request": "launch",
       "mainClass": "String.SkipElement",
