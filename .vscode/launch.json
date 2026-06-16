@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DuplicateSubSet",
+      "request": "launch",
+      "mainClass": "String.DuplicateSubSet",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "SubSet",
       "request": "launch",
       "mainClass": "String.SubSet",
