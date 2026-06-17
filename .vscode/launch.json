@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PadString",
+      "request": "launch",
+      "mainClass": "StringRecusion.PadString",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "Permutation",
       "request": "launch",
       "mainClass": "StringRecusion.Permutation",
