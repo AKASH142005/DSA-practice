@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Maze",
+      "request": "launch",
+      "mainClass": "Backtracking.Maze",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "Dice",
       "request": "launch",
       "mainClass": "StringRecusion.Dice",
