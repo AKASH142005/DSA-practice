@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MazeAllPath",
+      "request": "launch",
+      "mainClass": "Backtracking.MazeAllPath",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "MazeWithObstacle",
       "request": "launch",
       "mainClass": "Backtracking.MazeWithObstacle",
