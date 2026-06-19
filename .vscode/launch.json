@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Soduku",
+      "request": "launch",
+      "mainClass": "Backtracking.Soduku",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
+      "name": "NKnight",
+      "request": "launch",
+      "mainClass": "Backtracking.NKnight",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
+      "name": "Queens",
+      "request": "launch",
+      "mainClass": "Backtracking.Queens",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "MazeAllPath",
       "request": "launch",
       "mainClass": "Backtracking.MazeAllPath",
