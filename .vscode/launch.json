@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MyCalculator",
+      "request": "launch",
+      "mainClass": "Generics.Lambda.MyCalculator",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
+      "name": "CustomArrayList",
+      "request": "launch",
+      "mainClass": "Generics.CustomArrayList",
+      "projectName": "DSA_a0ab073d"
+    },
+    {
+      "type": "java",
       "name": "Main",
       "request": "launch",
       "mainClass": "Interface.Main",

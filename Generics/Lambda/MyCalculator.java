@@ -8,6 +8,7 @@ public class MyCalculator {
         return op.operation(a, b);
     }
     public static void main(String[] args) {
+        // parctice
         MyCalculator cal = new MyCalculator();
         Operation sum = (a,b) -> a + b ;
         Operation div = (a,b) -> a / b;
